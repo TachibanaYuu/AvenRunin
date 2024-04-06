@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1712412858 source:c:\users\hungd\onedrive\máy tính\aventunaisrunning\main.cpp
+	"defs.h"
+	"Graphics.h"
+	"player.h"
+	"timeControl.h"
+	"map.h"
+
+1712413009 c:\users\hungd\onedrive\máy tính\aventunaisrunning\defs.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1712373558 c:\users\hungd\onedrive\máy tính\aventunaisrunning\graphics.h
+	"defs.h"
+
+1712413339 c:\users\hungd\onedrive\máy tính\aventunaisrunning\map.h
+	"defs.h"
+	"Graphics.h"
+	"background.h"
+
+1712413740 c:\users\hungd\onedrive\máy tính\aventunaisrunning\player.h
+	"defs.h"
+	"Graphics.h"
+
+1712392653 c:\users\hungd\onedrive\máy tính\aventunaisrunning\timecontrol.h
+	"defs.h"
+
+1712412712 c:\users\hungd\onedrive\máy tính\aventunaisrunning\background.h
+	"defs.h"
+
